@@ -37,6 +37,7 @@ Credits
 ---------------
 
 Special thanks to antivanov and his js-crawler
+
 The crawler depends on the following Node.JS modules:
 
 * [Underscore.js]
