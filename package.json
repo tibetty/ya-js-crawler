@@ -1,0 +1,37 @@
+{
+  "name": "ya-js-crawler",
+  "version": "1.0.0",
+  "description": "Yet another js-crawler, a highly customized js-crawler (https://github.com/antivanov/js-crawler) for advanced usage, featuring: 1. priority request queue; 1. opt-in retry when error happens; 2. submit requests manually; 3. oblivious (no trail) and timeout support;",
+  "main": "ya-js-crawler.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "tough-cookie": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibetty/ya-js-crawler.git"
+  },
+  "keywords": [
+    "crawler",
+    "customized",
+    "advanced",
+    "usage",
+    "retry",
+    "on",
+    "error",
+    "node-js;",
+    "node.js"
+  ],
+  "author": "tibetty (kudos to antivanov as well)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibetty/ya-js-crawler/issues"
+  },
+  "homepage": "https://github.com/tibetty/ya-js-crawler#readme"
+}
